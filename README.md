@@ -4,6 +4,7 @@
 Android Application developed to auto reply to text messages.
 
 
+
 Future Plans:
 
 Integrate AI functionality by morphing application into auto chat bot. 
